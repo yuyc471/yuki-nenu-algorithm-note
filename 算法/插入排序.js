@@ -12,4 +12,4 @@ function insertionSort(arr){
     }
     return arr
 }
-console.log("@insertionSort",insertionSort([3,5,7,3,4,5,6]));
+console.log("@insertionSort",insertionSort([4,7,8,2,5,0]));

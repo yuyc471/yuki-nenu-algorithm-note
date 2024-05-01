@@ -1,0 +1,11 @@
+nvm->npm->vue/cli
+
+github地址 https://github.com/coreybutler/nvm-windows
+nvm中文网 https://nvm.uihtm.com/
+
+nvm镜像源
+nvm npm_mirror https://npmmirror.com/mirrors/npm/
+nvm node_mirror https://npmmirror.com/mirrors/node/
+
+npm镜像源
+https://registry.npmmirror.com

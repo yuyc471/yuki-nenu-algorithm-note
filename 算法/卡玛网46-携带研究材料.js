@@ -15,6 +15,7 @@ function getMostValue(weight,value,size){
             }
         }
     }
+    console.table(dp)
     return dp[count-1][size]
 }
 console.log("@",getMostValue([2,2,3,1,5,2],[2,3,1,5,4,3],1));
